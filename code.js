@@ -6,7 +6,7 @@ var count_title = title.length
 var count_value = 0;
 console.log(`Total Title = ${count_title}`)
 console.log(`Total Rating = ${count_rating}`)
-//This is  Download function 
+//This Download function 
 function download(filename, text) {
     var element = document.createElement('a');
     element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
