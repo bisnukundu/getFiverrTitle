@@ -8,6 +8,6 @@ Copy all javascript code and paste in the browser console
 
 ### 2 Second Step
 
-Paste javascript code and press Enter
+Paste javascript code and press Enter and you will see Gig_Title.txt file start Downloading
 
 ### Finished
