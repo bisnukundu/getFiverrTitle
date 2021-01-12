@@ -1,1 +1,1 @@
-## This is very Simple Script for getting Fiverr gig title which git rating (1k+)
+## This is very simple script for getting fiverr gig title which Gig rating (1k+)
