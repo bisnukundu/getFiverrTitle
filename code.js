@@ -1,5 +1,4 @@
-
-var title = document.querySelectorAll(".gig-card-layout div .gig-wrapper .text-display-7");
+var title = document.querySelectorAll(".gig-wrapper h3 a");
 var rating = document.querySelectorAll(".gig-rating span");
 var count_rating = rating.length
 var count_title = title.length
